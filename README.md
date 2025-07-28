@@ -9,6 +9,9 @@ Saliency maps are widely used as a post-hoc approach to explain the decision-mak
 
 
 
+## Citation
+
+If you use this code, please cite the following paper:
 
 @Article{Bora_2025_PR,
   author    = {Bora, Revoti Prasad and Terh\"orst, Philipp and Veldhuis, Raymond and Ramachandra, Raghavendra and Raja, Kiran},
